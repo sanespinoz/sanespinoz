@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/mibanner.png" alt="Banner de Sandra Espinoza" style="width:100%;" />
+</p>
+
+<p align="center">
+  <img src="assets/mifoto_circular.png" alt="Foto de Sandra Espinoza" width="150" />
+</p>
+
+
 # 👋 Hola, mi nombre es Sandra
 
 🎓 **Ingeniera en Sistemas de Información**  
